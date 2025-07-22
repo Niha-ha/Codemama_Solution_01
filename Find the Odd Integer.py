@@ -1,4 +1,4 @@
-# Function to fina an integer that appears odd numbers of times
+# Function to find an integer that appears odd numbers of times
 def find_odd_integer(arr):
 
     # Loop through every single number in the array
